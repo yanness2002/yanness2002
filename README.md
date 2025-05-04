@@ -41,4 +41,4 @@ Du 1er janvier 2023 au 31 décembre 2024.
 
 ## Auteurs
 
-- MBAHO D’ESSAKAL Yann Arthurp
+- MBAHO D’ESSAKAL Yann Arthur and pierre arthur Pougoum
